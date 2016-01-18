@@ -1,2 +1,2 @@
 # Sensors
-Different operation with sensors
+Different operation with sensors as example
